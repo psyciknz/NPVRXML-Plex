@@ -8,5 +8,5 @@ Quick option added to the agent preferences, where a plex token was required, Fo
 
 The Plex agent has it's own log in Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.npvrxml.log.  This will normally be needed for any issues.
 
-For the NextPVR channel see https://github.com/psyciknz/NextPVR-Plex
+For the NextPVR channel see https://github.com/psyciknz/NextPVR.bundle
 
