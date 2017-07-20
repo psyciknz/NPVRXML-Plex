@@ -1,4 +1,4 @@
-NextPVR-Plex
+NextPVR Metadata agent and Scanner for Plex
 ============
 
 Plex Agents for NextPVR format XMl Files.
